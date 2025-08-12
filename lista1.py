@@ -1,3 +1,7 @@
-#ola penstana, voce leu todos os codigos de todos os commits de TODOS OS ALUNOS????
+#Ola de novo Pestana, CUMprimento é mt forte
 
-print("Hello World")
+def cumprimento(texto):
+    return f"Olá, {texto}"
+
+mensagem = cumprimento("Erik Nonato Rolin")
+print(mensagem)
